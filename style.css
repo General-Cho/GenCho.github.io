@@ -1,0 +1,19 @@
+h1 {
+  font-size: 100px;
+
+}
+
+body {
+  background-color: lightblue;
+}
+
+#GenCho {
+    /* Percentage width instead of pixels to make smiley face scale fluidly */
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    border: 5px solid #9DAF99;
+    position: relative;
+    left: 45%;
+    text-align: center;
+}
