@@ -1,10 +1,10 @@
 h1 {
   font-size: 100px;
-
 }
 
 body {
-  background-color: lightblue;
+  background-color: black;
+  color: white;
 }
 
 #GenCho {
@@ -17,3 +17,9 @@ body {
     left: 45%;
     text-align: center;
 }
+
+.title {
+  font-size: 100px;
+  color: red
+}
+
