@@ -8,7 +8,7 @@ you can only download General Cho's web products from the website or
  view the website 
 (IF YOU VIEW General Cho's website OR DOWNLOAD OUR GAMES)
 you are required to follow the terms of use (IF YOU DO NOT AGREE TO
-THE TERMS OF USE YOU ARE NOT PERMITED TO USING OR DOWNLOADING OUR 
+THE TERMS OF USE YOU ARE NOT PERMITTED TO USING OR DOWNLOADING OUR 
 PRODUCTS)
 
 © 2023 General-Cho's web®, All Rights Reserved
