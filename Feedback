@@ -1,10 +1,1 @@
-<div id="comments-section">
-  <h2>Community Feedback</h2>
-  <div id="comments-container">
-    <!-- Comments will be dynamically added here -->
-  </div>
-  <form id="comment-form">
-    <textarea id="comment-input" placeholder="Leave a comment..."></textarea>
-    <button id="submit-button">Submit</button>
-  </form>
-</div>
+
